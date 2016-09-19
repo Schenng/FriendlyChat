@@ -1,0 +1,29 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] CLI Version:  3.0.7
+[debug] Platform:     darwin
+[debug] Node Version: v4.2.2
+[debug] Time:         Mon Sep 19 2016 14:10:39 GMT-0400 (EDT)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: /Users/Computer/Documents/FireChat/friendlychat/web-start
+[info] Public Directory: ./
+[info] 
+[info] Server listening at: http://localhost:5000
+[info] Shutting down...
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] CLI Version:  3.0.7
+[debug] Platform:     darwin
+[debug] Node Version: v4.2.2
+[debug] Time:         Mon Sep 19 2016 14:12:02 GMT-0400 (EDT)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: /Users/Computer/Documents/friendlychat/web-start
+[info] Public Directory: ./
+[info] 
+[info] Server listening at: http://localhost:5000
